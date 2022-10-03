@@ -14,15 +14,15 @@ swapi workspace
 ### Ekran Görüntüleri
 
 <div align="center">
-  <img width="600" src="/Screen Shot1"><br />
+  <img width="600" src="/Screen Shot1.png"><br />
   <span>-About-</span><br /><br />
 </div>
 
 <div align="center">
-  <img width="600" src="/Screen Shot2"><br />
+  <img width="600" src="/Screen Shot2.png"><br />
   <span>-Films-</span><br /><br />
 </div>
 <div align="center">
-  <img width="600" src="/Screen Shot3"><br />
+  <img width="600" src="/Screen Shot3.png"><br />
   <span>-Films and People-</span><br /><br />
 </div>

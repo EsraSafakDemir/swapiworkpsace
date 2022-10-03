@@ -1,7 +1,7 @@
 # swapiworkpsace
 swapi workspace
 
-### Kullanılan Teknolojiler ve Kütüphaneler
+### Technology and Library
 
 - React 16.10.2
 - Redux 4.0.4
@@ -11,7 +11,7 @@ swapi workspace
 -semantic-ui-css 2.4.1
 -semantic-ui-react 2.1.3
 
-### Ekran Görüntüleri
+### Screen Shots
 
 <div align="center">
   <img width="600" src="/Screen Shot1.png"><br />

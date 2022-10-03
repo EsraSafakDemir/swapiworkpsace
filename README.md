@@ -14,7 +14,7 @@ swapi workspace
 ### Ekran Görüntüleri
 
 <div align="center">
-  <img width="600" src="Screen Shot1.png"><br />
+  <img width="600" src="/Screen Shot1.png"><br />
   <span>-About-</span><br /><br />
 </div>
 
